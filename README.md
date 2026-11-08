@@ -1,6 +1,6 @@
 # 🛒 Shopper Intent — ML Assignment 2 (BITS Pilani M.Tech AIML)
 
-| | |
+| Item | Details |
 |---|---|
 | **Student** | Jeevan Mandula (2026ak05449) |
 | **Course** | Machine Learning (AIMLZG565) — Assignment 2 |
