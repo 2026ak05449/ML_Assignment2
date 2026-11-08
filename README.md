@@ -1,6 +1,11 @@
 # 🛒 Shopper Intent — ML Assignment 2 (BITS Pilani M.Tech AIML)
 
-**Live app:** _<paste your Streamlit app link here>_
+| | |
+|---|---|
+| **Student** | Jeevan Mandula (2026ak05449) |
+| **Course** | Machine Learning (AIMLZG565) — Assignment 2 |
+| **GitHub repository** | https://github.com/2026ak05449/ML_Assignment2 |
+| **Live Streamlit app** | https://2026ak05449.streamlit.app/ |
 
 ## a. Problem statement
 An online store logs every browsing session: how many pages of each kind were visited, how long was spent on them,
@@ -42,7 +47,8 @@ The preprocessing is saved inside each model pipeline, so the app takes raw CSV 
 Hyper-parameters were tuned with 5-fold stratified `GridSearchCV` optimising F1.
 
 ## c. GitHub repository
-**Repository:** _<paste your GitHub repo link here>_
+**Repository:** https://github.com/2026ak05449/ML_Assignment2  
+**Live app:** https://2026ak05449.streamlit.app/
 
 ```
 ├── app.py                               # Streamlit app
